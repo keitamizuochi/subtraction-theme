@@ -3,6 +3,11 @@
     "displayName": "Subtraction Theme",
     "description": "A theme of subtraction. It is very simple, pure and coding focused.",
     "version": "0.0.1",
+    "publisher": "keitamizuochi",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/keitamizuochi/subtraction-theme.git"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
