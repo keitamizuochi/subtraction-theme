@@ -23,27 +23,6 @@
 			"settings": {
 				"foreground": "#990000"
 			}
-		},
-		{
-			"name": "Strings",
-			"scope": "string",
-			"settings": {
-				"foreground": "#666666"
-			}
-		},
-		{
-			"name": "Entity",
-			"scope": "entity",
-			"settings": {
-				"foreground": "#000000"
-			}
-		},
-		{
-			"name": "Markup Quote",
-			"scope": "markup.quote",
-			"settings": {
-				"foreground": "#666666"
-			}
 		}
 	]
 }
