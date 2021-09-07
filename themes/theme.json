@@ -14,14 +14,14 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#999999"
+				"foreground": "#666666"
 			}
 		},
 		{
 			"name": "Comments: Preprocessor",
 			"scope": "comment.block.preprocessor",
 			"settings": {
-				"foreground": "#999999"
+				"foreground": "#666666"
 			}
 		},
 		{
@@ -31,7 +31,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#999999"
+				"foreground": "#666666"
 			}
 		},
 		{
