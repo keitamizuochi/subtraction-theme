@@ -1,0 +1,21 @@
+{
+    "name": "subtraction",
+    "displayName": "Subtraction Theme",
+    "description": "A theme of subtraction. It is very simple, pure and coding focused.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Subtraction",
+                "uiTheme": "vs",
+                "path": "./themes/theme.json"
+            }
+        ]
+    }
+}
